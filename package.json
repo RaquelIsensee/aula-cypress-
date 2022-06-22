@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cy:run": "cypress run --headed",
+    "cy:cromium": "cypress run --headed"
+  },
+  "dependencies": {
+    "@cypress/xvfb": "^1.2.4",
+    "cypress": "9.6.0",
+    "yarn": "^1.22.18"
+  }
+}
